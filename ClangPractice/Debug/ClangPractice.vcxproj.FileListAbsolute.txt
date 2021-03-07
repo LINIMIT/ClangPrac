@@ -1,0 +1,2 @@
+C:\Users\LMT\Desktop\Unity Project\ClangPrac\ClangPractice\Debug\ClangPractice.exe
+C:\Users\LMT\Desktop\Unity Project\ClangPrac\ClangPractice\Debug\ClangPractice.pdb
